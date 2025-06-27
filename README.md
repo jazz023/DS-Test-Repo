@@ -32,6 +32,4 @@ The notebook includes:
 - **Institution**: IBM Skills Network
 
 ## ✍️ Author
-
-*Your Name Here*
 Jashika Sethi
